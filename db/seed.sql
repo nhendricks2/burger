@@ -1,4 +1,4 @@
-USE burgers_db;
+USE nod1qruu3oowh85l;
 -- Insert a set of records.
 INSERT INTO burgers (burger_name) VALUES ('Cheesburger');
 INSERT INTO burgers (burger_name) VALUES ('Bacon Cheeseurger');
