@@ -1,4 +1,4 @@
-USE e0gambcks6aykd0f;
+USE burgers_db;
 CREATE TABLE burgers (
     id INT NOT NULL AUTO_INCREMENT,
     burger_name VARCHAR(200) NOT NULL,

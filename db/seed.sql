@@ -1,4 +1,4 @@
-USE e0gambcks6aykd0f;
+USE burgers_db;
 -- Insert a set of records.
 INSERT INTO burgers (burger_name) VALUES ('Cheesburger');
 INSERT INTO burgers (burger_name) VALUES ('Bacon Cheeseurger');
